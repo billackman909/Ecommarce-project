@@ -3,7 +3,7 @@ import { useCart } from '../Context/CartContext';
 
 const Products = [
   {
-    id: 11,
+    id: 1182,
     name: "T-Shirt",
     Price: 20,
     image: "https://via.placeholder.com/150",
