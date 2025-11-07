@@ -23,7 +23,7 @@ const Products = [
   {
     id: 12,
     name: "T-Shirt",
-    Price: 20,
+    Price: 200,
     image: "https://via.placeholder.com/150",
   },
   {
